@@ -11,4 +11,5 @@ UI Components: Access a comprehensive collection of UI components, including pro
 Flutter Compatibility: Built using Flutter, ensuring cross-platform compatibility and enabling rapid development and deployment on both iOS and Android platforms.
 
 Why Vogue Hub UI Kit?
+
 Vogue Hub UI Kit empowers developers to create visually stunning and highly functional fashion and tech e-commerce applications with ease. By providing a robust set of UI components and design principles, this kit simplifies the development process, allowing developers to focus on building rich user experiences without compromising on aesthetics or functionality.
