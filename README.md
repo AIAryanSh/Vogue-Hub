@@ -1,45 +1,14 @@
-# Flutter E-Commerce App Template
+Vogue Hub
 
- If you want to learn how to build this ecommerce template on Flutter [watch the playlist on YouTube](https://youtube.com/playlist?list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af), In the first video, we start by making a neat onboarding screen for our shopping app. This works on both Android and iOS because it's made with Flutter. In the next video, we tackle the 'Sign In' and 'Forgot Password' screens, adding some unique error messages. The third video covers the 'Sign Up' and OTP processes. The fourth one is fun – we create the main homepage. In the fifth, we dive into the product page, and in the sixth, we craft an order page with cool features like 'swipe to delete.' Finally, in the seventh video, we design the user profile page.
+Vogue Hub UI Kit is a meticulously crafted Flutter project designed to provide developers with a sleek and stylish user interface template for fashion and tech e-commerce applications. With its modern design elements and intuitive layout, this UI Kit offers a solid foundation for creating visually stunning and user-friendly mobile apps in the fashion and technology domains.
 
-Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https://www.flutterlibrary.com/templates/e-commerce-app) & other templates, and components.
+Key Features:
+Stylish Design: Incorporate contemporary design trends and sleek UI elements to captivate users and enhance their shopping experience.
+Flexible Customization: Easily customize colors, fonts, and layouts to match your brand identity and create a unique visual identity for your application.
+Responsive Layouts: Ensure seamless user experience across various screen sizes and devices with responsive and adaptive UI components.
+Intuitive Navigation: Implement intuitive navigation patterns and user flows to streamline the shopping process and improve user engagement.
+UI Components: Access a comprehensive collection of UI components, including product cards, category filters, navigation bars, and more, to accelerate development and maintain consistency throughout your app.
+Flutter Compatibility: Built using Flutter, ensuring cross-platform compatibility and enabling rapid development and deployment on both iOS and Android platforms.
 
-
-### Video Preview of the Shop template
-
-![Preview](/intro.gif)
-
-## Screens it contains:
-
-=> Onboarding
-
-=> Login
-
-=> Forgot Password
-
-=> Sign Up
-
-=> Complete Profile
-
-=> OTP Verification
-
-=> Home Page
-
-=> Product Details
-
-=> Order
-
-=> Profile (added)
-
-=> Bottom Navigation Bar (added)
-
-Now it contains all the screen, thanks for your love and support 🙏 
-
-## Photos
-![Preview](/1.png)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
+Why Vogue Hub UI Kit?
+Vogue Hub UI Kit empowers developers to create visually stunning and highly functional fashion and tech e-commerce applications with ease. By providing a robust set of UI components and design principles, this kit simplifies the development process, allowing developers to focus on building rich user experiences without compromising on aesthetics or functionality.
